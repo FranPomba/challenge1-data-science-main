@@ -61,8 +61,7 @@ Este desafio foi uma oportunidade prática de aplicar conceitos fundamentais da 
 ## 🚀 Como executar
 
 1. Clone o repositório
-2. Instale as dependências com `pip install -r requirements.txt` (se aplicável)
-3. Execute o notebook `analise_lojas.ipynb` no Jupyter
+2. Execute o notebook `analise_lojas.ipynb` no Jupyter
 
 ---
 
